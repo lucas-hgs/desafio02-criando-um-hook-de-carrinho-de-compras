@@ -1,4 +1,4 @@
-<h1 align="center">Ignite Challenge 02 - Refactoring App</h1>
+<h1 align="center">Ignite Challenge 03 - Creating a React Hook</h1>
 
 <div align="center">
 
